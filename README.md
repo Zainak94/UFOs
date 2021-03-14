@@ -5,7 +5,11 @@ The purpose of this analysis was to help Dana create a webpage and dynamic table
 ![UFOs](https://github.com/Zainak94/UFOs/blob/main/Resources/web_capture.PNG)
 
 ## Results: 
-Visitors will be greeted by the webpage with the clean title and followed by a filter and table. These filters will be used to create a table with the users desired city, state, country, and shape. To filter the data, users will need to type the information they require in the text box. This will allow the webpage to dynamically create and update the table by users’ desires. 
+Visitors will be greeted by the webpage with the clean title and followed by a filter and table. These filters will be used to create a table with the users desired city, state, country, and shape. To filter the data, users will need to type the information they require in the text box. This will allow the webpage to dynamically create and update the table by users’ desires.
+
+**Final results with no filter search**
+![UFOs](https://github.com/Zainak94/UFOs/blob/main/Resources/final_results.PNG)
+
 The image below shows only by filtered date and city. The other results automatically gets filtered by given data. 
 
 ![UFOs](https://github.com/Zainak94/UFOs/blob/main/Resources/filtered_date_city.PNG)
